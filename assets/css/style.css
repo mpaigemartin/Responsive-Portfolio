@@ -178,7 +178,7 @@ section {
 
 
 
-@media screen and (min-width: 641px) and (max-width: 767px) {
+@media screen and (min-width: 641px) and (max-width: 768px) {
     #div1 {
         width: 100%;
     }
