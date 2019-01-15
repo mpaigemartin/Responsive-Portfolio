@@ -1,0 +1,22 @@
+@media screen and (min-width: 641px) and (max-width: 767px) {
+    .wrapper {
+        width: 125%;
+    }
+
+    #header {
+        margin-left: 20px;
+    }
+
+    #links {
+        margin-right: 80px;
+    }
+
+    #main {
+        width: 110%;
+        margin: auto;
+    }
+
+    #div4 {
+        width: 125%
+    }
+}
